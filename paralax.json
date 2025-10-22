@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"ca-app-pub-3940256099942544/9257395921",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Wallpaper 1",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/cc624ca0-96c6-4fd3-bef5-e62056991678.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/51f17fbb-7273-4d9a-b69c-764f21eb1ac4.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/a7e87876-cbe9-4306-8cf6-f83eedd60d95.jpeg"
+    },
+	{
+      "id": 3,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/26e671c5-a114-41dd-abd4-997d25f53fb2.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/1469399b-2cfc-4e69-b2c7-5e758790b2ad.jpeg"
+    },
+	{
+      "id": 5,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/628e29cd-4830-4920-b54f-bc55ef6d21a7.jpeg"
+    },
+    {
+      "id": 6,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/f8706dba-e0b3-419e-81e3-89a9ba6d16fb.jpeg"
+    },
+	{
+      "id": 7,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/91dc23db-de08-4edf-af35-a4a6a5a2e25f.jpeg"
+    },
+    {
+      "id": 8,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/f05bb8ef-c607-4aba-8daa-61309ad5e6ab.jpeg"
+    },
+	{
+      "id": 9,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/23f1a391-1420-465f-a98e-316663bf21c3.jpeg"
+    },
+    {
+      "id": 10,
+      "name_category": "Wallpaper 1",
+      "wallpaper_name": "Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/cc624ca0-96c6-4fd3-bef5-e62056991678.jpeg"
+    }
+  ]
+}
